@@ -1,0 +1,24 @@
+{
+  "name": "chartdatapusher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towhidk2/chart-data-pusher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/towhidk2/chart-data-pusher/issues"
+  },
+  "homepage": "https://github.com/towhidk2/chart-data-pusher#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
